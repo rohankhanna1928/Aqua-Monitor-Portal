@@ -26,7 +26,17 @@ https://v0-farmer-water-dashboard.vercel.app/
 
 ## Screenshots
 
-Add screenshots of your dashboard here.
+### Dashboard Overview
+![Dashboard Overview](Screenshots/1.png)
+
+### Daily History & Water Limit Requests
+![Daily History](Screenshots/2.png)
+
+### 7-Day Analytics
+![7-Day Analytics](Screenshots/3.png)
+
+### 30-Day Analytics & System Workflow
+![30-Day Analytics](Screenshots/4.png)
 
 ## Future Improvements
 
